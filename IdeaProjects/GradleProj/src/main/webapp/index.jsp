@@ -11,8 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
-
-  Anand
+<center><h2>Gradle Build Testing :Anand</h2></center>
   </body>
 </html>
